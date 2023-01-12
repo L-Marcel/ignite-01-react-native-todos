@@ -1,0 +1,7 @@
+"react": "17.0.1",
+"react-native": "0.64.2",
+
+
+//LATEST
+"react": "^18.2.0",
+"react-native": "^0.70.6",
