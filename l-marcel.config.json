@@ -1,0 +1,9 @@
+{
+    "translatedDescription": "Um aplicativo usado para gerenciamento de tarefas (um to-do list).",
+    "links": {
+        "figma": "https://www.figma.com/file/NgSqohzOiLg8Lep7fBcKKq/to.do-(Copy)?node-id=10485%3A499&t=PdvM1sFYlWlo6pSc-1"
+    },
+    "technologies": [
+        "React Native"
+    ]
+}
