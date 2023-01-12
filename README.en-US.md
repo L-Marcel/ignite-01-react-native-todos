@@ -6,6 +6,10 @@
     <a class="navigation-link disabled" href="https://github.com/L-Marcel/ignite-01-react-native-todos/blob/main/README.md" target="__blank__">
       pt-br
     </a>
+    <span class="disabled">•</span>
+    <a class="navigation-link" href="https://www.figma.com/file/NgSqohzOiLg8Lep7fBcKKq/to.do-(Copy)?node-id=10485%3A499&t=PdvM1sFYlWlo6pSc-1" target="__blank__">
+      figma
+    </a>
   </nav>
 </div>
 
